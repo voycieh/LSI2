@@ -3,3 +3,8 @@ geckodriver.log
 .DS_Store
 data/.DS_Store
 data/export_dataframe.csv
+GA-selenium.ipynb
+Keywords_Group.ipynb
+LSI3.ipynb
+LSI4-view.ipynb
+Untitled.ipynb
